@@ -1,0 +1,20 @@
+/**********************reset*************************/
+
+body,p,h1,h2,h3,h4,h5,h6,dl,dd{margin:0;	}
+ul,ol,li{margin:0;padding:0;list-style:none;}
+a{text-decoration:none;}
+img{border:none;vertical-align:top;}
+strong,b,h1,h2,h3,h4,h5,h6{font-weight:normal;}
+em,i{font-style:normal;}
+th,td{padding:0;}
+table{border-collapse:collapse;}
+input{margin:0;padding:0;//border:none;//background:none;}
+select{margin:0;}
+textarea{margin:0;padding:0;resize:none;overflow:auto;//outline:none;}
+.clear:after{content:"";display:block;clear:both;height:0;overflow:hidden;visibility:hidden;}
+.clear{zoom:1;}
+
+/**************************public*******************************/
+.fl{float:left;}
+.fr{float:right;}
+.auto{margin:0 auto;}

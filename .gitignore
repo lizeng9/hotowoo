@@ -1,0 +1,8 @@
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+client.txt
+.env.example
+public/uploads
+public/thumbs
